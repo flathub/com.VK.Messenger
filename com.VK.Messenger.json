@@ -31,13 +31,15 @@
 			"sources": [
 				{
 					"type": "extra-data",
-					"url": "https://upload.object2.vk-apps.com/vk-me-desktop-dev-5837a06d-5f28-484a-ac22-045903cb1b1a/latest/vk-messenger.deb",
-					"only-arches": ["x86_64"],
+					"url": "https://upload.object2.vk-apps.com/vk-me-desktop-dev-5837a06d-5f28-484a-ac22-045903cb1b1a/6.0.54/vk-messenger.deb",
+					"only-arches": [
+						"x86_64"
+					],
 					"sha256": "c5c21e96d82282b90a897e94f218a3e072dcc4de1a3bf7125890035e908e0227",
 					"size": 83019378,
 					"x-checker-data": {
-						  "type": "electron-updater",
-						  "url": "https://upload.object2.vk-apps.com/vk-me-desktop-dev-5837a06d-5f28-484a-ac22-045903cb1b1a/latest/latest-linux.yml"
+						"type": "electron-updater",
+						"url": "https://upload.object2.vk-apps.com/vk-me-desktop-dev-5837a06d-5f28-484a-ac22-045903cb1b1a/latest/latest-linux.yml"
 					},
 					"filename": "vk-messenger.deb"
 				},
