@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <component type="desktop-application">
   <id>com.VK.Messenger</id>
   <name>VK Messenger</name>
@@ -50,7 +50,19 @@
   </content_rating>
 
   <releases>
-    <release date="2025-02-18" version="6.0.52">
+    <release date="2025-08-22" version="6.0.54">
+	  <description>Исправления и улучшения</description>
+    </release>
+  </releases>
+
+  <releases>
+    <release date="2025-08-22" version="6.0.53">
+	  <description>Исправления и улучшения</description>
+    </release>
+  </releases>
+
+  <releases>
+    <release date="2025-08-13" version="6.0.52">
 	  <description>Исправления и улучшения</description>
     </release>
   </releases>
