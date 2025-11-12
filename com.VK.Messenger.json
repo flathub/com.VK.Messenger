@@ -47,7 +47,8 @@
 					"dest-filename": "apply_extra",
 					"commands": [
 						"set -e",
-						"LANG=C bsdtar --to-stdout -xf vk-messenger.deb data.* | LANG=C bsdtar -xf - --strip-components=3"
+						"LANG=C bsdtar --to-stdout -xf vk-messenger.deb data.* | LANG=C bsdtar -xf - --strip-components=3",
+						"rm vk-messenger.deb"
 					]
 				},
 				{
