@@ -23,7 +23,6 @@
 				"install -Dm644 hicolor/scalable/apps/vk-messenger.svg /app/share/icons/hicolor/scalable/apps/$FLATPAK_ID.svg",
 				"install -Dm644 $FLATPAK_ID.desktop /app/share/applications/$FLATPAK_ID.desktop",
 				"install -Dm644 $FLATPAK_ID.metainfo.xml -t /app/share/metainfo",
-
 				"ln -s ${FLATPAK_DEST}/extra/vk-messenger ${FLATPAK_DEST}/bin/vk-messenger",
 				"install -Dm755 apply_extra ${FLATPAK_DEST}/bin/apply_extra",
 				"install -Dm755 run /app/bin/run"
@@ -31,12 +30,12 @@
 			"sources": [
 				{
 					"type": "extra-data",
-					"url": "https://upload.object2.vk-apps.com/vk-me-desktop-dev-5837a06d-5f28-484a-ac22-045903cb1b1a/6.0.54/vk-messenger.deb",
+					"url": "https://upload.object2.vk-apps.com/vk-me-desktop-dev-5837a06d-5f28-484a-ac22-045903cb1b1a/6.0.55/vk-messenger.deb",
 					"only-arches": [
 						"x86_64"
 					],
-					"sha256": "c5c21e96d82282b90a897e94f218a3e072dcc4de1a3bf7125890035e908e0227",
-					"size": 83019378,
+					"sha256": "c6030580027166b85d45d6b55726e4e360c856a9e310aeb3b1aedce5c6dede39",
+					"size": 83077582,
 					"x-checker-data": {
 						"type": "electron-updater",
 						"url": "https://upload.object2.vk-apps.com/vk-me-desktop-dev-5837a06d-5f28-484a-ac22-045903cb1b1a/latest/latest-linux.yml"
