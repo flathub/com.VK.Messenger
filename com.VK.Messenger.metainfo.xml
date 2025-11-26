@@ -66,4 +66,11 @@
 
   <update_contact>https://github.com/DUB1401</update_contact>
   <launchable type="desktop-id">com.VK.Messenger.desktop</launchable>
+  <keywords>
+    <keyword>chat messenger</keyword>
+    <keyword>instant messaging</keyword>
+    <keyword>free calling</keyword>
+    <keyword>voip chat</keyword>
+    <keyword>quick messaging</keyword>
+  </keywords>
 </component>
