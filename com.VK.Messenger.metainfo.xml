@@ -66,4 +66,14 @@
 
   <update_contact>https://github.com/DUB1401</update_contact>
   <launchable type="desktop-id">com.VK.Messenger.desktop</launchable>
+  <keywords>
+    <keyword>messenger</keyword>
+	<keyword xml:lang="ru">мессенджер</keyword>
+    <keyword>voip calling</keyword>
+	<keyword xml:lang="ru">видеозвонки</keyword>
+  </keywords>
+  <branding>
+    <color type="primary" scheme_preference="light">#00EAFE</color>
+    <color type="primary" scheme_preference="dark">#0078FE</color>
+  </branding>
 </component>
