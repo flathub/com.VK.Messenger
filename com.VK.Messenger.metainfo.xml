@@ -72,4 +72,8 @@
     <keyword>voip calling</keyword>
 	<keyword xml:lang="ru">видеозвонки</keyword>
   </keywords>
+  <branding>
+    <color type="primary" scheme_preference="light">#00EAFE</color>
+    <color type="primary" scheme_preference="dark">#0078FE</color>
+  </branding>
 </component>
