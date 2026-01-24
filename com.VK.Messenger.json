@@ -20,7 +20,7 @@
 			"buildsystem": "simple",
 			"build-commands": [
 				"for size in 48 64 128 256; do install -Dm644 ${size}.png /app/share/icons/hicolor/${size}x${size}/apps/$FLATPAK_ID.png; done",
-				"install -Dm644 vk-messenger.svg /app/share/icons/hicolor/scalable/apps/$FLATPAK_ID.svg",
+				"install -Dm644 scalable.svg /app/share/icons/hicolor/scalable/apps/$FLATPAK_ID.svg",
 				"install -Dm644 $FLATPAK_ID.desktop /app/share/applications/$FLATPAK_ID.desktop",
 				"install -Dm644 $FLATPAK_ID.metainfo.xml -t /app/share/metainfo",
 				"ln -s ${FLATPAK_DEST}/extra/vk-messenger ${FLATPAK_DEST}/bin/vk-messenger",
@@ -65,28 +65,13 @@
 				},
 				{
 					"type": "file",
-					"path": "icons/hicolor/48x48/apps/vk-messenger.png",
-					"dest-filename": "48.png"
-				},
-				{
-					"type": "file",
-					"path": "icons/hicolor/64x64/apps/vk-messenger.png",
-					"dest-filename": "64.png"
-				},
-				{
-					"type": "file",
-					"path": "icons/hicolor/128x128/apps/vk-messenger.png",
-					"dest-filename": "128.png"
-				},
-				{
-					"type": "file",
-					"path": "icons/hicolor/256x256/apps/vk-messenger.png",
+					"path": "icons/256x256.png",
 					"dest-filename": "256.png"
 				},
 				{
 					"type": "file",
-					"path": "icons/hicolor/scalable/apps/vk-messenger.svg",
-					"dest-filename": "vk-messenger.svg"
+					"path": "icons/scalable.svg",
+					"dest-filename": "scalable.svg"
 				},
 				{
 					"type": "script",
