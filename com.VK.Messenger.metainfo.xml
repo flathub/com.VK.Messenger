@@ -50,9 +50,6 @@
   </content_rating>
 
   <releases>
-	<release version="6.0.55" date="2025-11-07">
-			<description></description>
-	</release>
 	<release date="2025-11-07" version="6.0.55">
 	  <description><p>Исправления и улучшения</p></description>
     </release>
