@@ -30,12 +30,12 @@
             "sources": [
                 {
                     "type": "extra-data",
-                    "url": "https://upload.object2.vk-apps.com/vk-me-desktop-dev-5837a06d-5f28-484a-ac22-045903cb1b1a/latest/vk-messenger-6.0.55-build.352-x86_64.AppImage",
+                    "url": "https://upload.object2.vk-apps.com/vk-me-desktop-dev-5837a06d-5f28-484a-ac22-045903cb1b1a/latest/vk-messenger-6.0.57-build.36-x86_64.AppImage",
                     "only-arches": [
                         "x86_64"
                     ],
-                    "sha256": "26f9cbbdc2e41700b9e5bdb8f3dcbae2be65046ff466232e6e696ed8e7125361",
-                    "size": 116476673,
+                    "sha256": "b0fe3b7f8a9cbffa19e23413101032864fbd8aa860c50c52312025006ce85a8c",
+                    "size": 116534041,
                     "x-checker-data": {
                         "type": "electron-updater",
                         "url": "https://upload.object2.vk-apps.com/vk-me-desktop-dev-5837a06d-5f28-484a-ac22-045903cb1b1a/latest/latest-linux.yml"
