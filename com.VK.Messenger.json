@@ -36,10 +36,6 @@
                     ],
                     "sha256": "cb4fa7a8fb3c6af5c432696e4653751393c9c5c655b6bf0e2d944ff7483ec784",
                     "size": 83117630,
-                    "x-checker-data": {
-                        "type": "electron-updater",
-                        "url": "https://upload.object2.vk-apps.com/vk-me-desktop-dev-5837a06d-5f28-484a-ac22-045903cb1b1a/latest/latest-linux.yml"
-                    },
                     "filename": "vk-messenger.deb"
                 },
                 {
