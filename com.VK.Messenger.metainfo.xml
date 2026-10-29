@@ -7,7 +7,7 @@
   <summary xml:lang="ru">Лёгкий и быстрый в любых условиях</summary>
   <developer_name>VK</developer_name>
 
-  <project_license>LicenseRef-proprietary</project_license>
+  <project_license>LicenseRef-proprietary=https://vk.ru/main.php?subdir=terms&amp;subsubdir=vkmessenger_license</project_license>
   <metadata_license>CC0-1.0</metadata_license>
 
   <description>
